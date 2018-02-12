@@ -40,3 +40,45 @@ C:\Users\DAWOOD\Documents\Visual Studio 2017\Projects\WebApplication1\WebApplica
 C:\Users\DAWOOD\Documents\Visual Studio 2017\Projects\WebApplication1\WebApplication1\obj\Debug\WebApplication1.csproj.CoreCompileInputs.cache
 C:\Users\DAWOOD\Documents\Visual Studio 2017\Projects\WebApplication1\WebApplication1\obj\Debug\WebApplication1.dll
 C:\Users\DAWOOD\Documents\Visual Studio 2017\Projects\WebApplication1\WebApplication1\obj\Debug\WebApplication1.pdb
+E:\SananEnterprise\SaNoN\WebApplication1\WebApplication1\bin\ApplicationInsights.config
+E:\SananEnterprise\SaNoN\WebApplication1\WebApplication1\bin\WebApplication1.dll.config
+E:\SananEnterprise\SaNoN\WebApplication1\WebApplication1\bin\WebApplication1.dll
+E:\SananEnterprise\SaNoN\WebApplication1\WebApplication1\bin\WebApplication1.pdb
+E:\SananEnterprise\SaNoN\WebApplication1\WebApplication1\bin\Antlr3.Runtime.dll
+E:\SananEnterprise\SaNoN\WebApplication1\WebApplication1\bin\Microsoft.AI.Agent.Intercept.dll
+E:\SananEnterprise\SaNoN\WebApplication1\WebApplication1\bin\Microsoft.AI.DependencyCollector.dll
+E:\SananEnterprise\SaNoN\WebApplication1\WebApplication1\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\SananEnterprise\SaNoN\WebApplication1\WebApplication1\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\SananEnterprise\SaNoN\WebApplication1\WebApplication1\bin\Microsoft.AI.Web.dll
+E:\SananEnterprise\SaNoN\WebApplication1\WebApplication1\bin\Microsoft.AI.WindowsServer.dll
+E:\SananEnterprise\SaNoN\WebApplication1\WebApplication1\bin\Microsoft.ApplicationInsights.dll
+E:\SananEnterprise\SaNoN\WebApplication1\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\SananEnterprise\SaNoN\WebApplication1\WebApplication1\bin\Microsoft.Web.Infrastructure.dll
+E:\SananEnterprise\SaNoN\WebApplication1\WebApplication1\bin\Newtonsoft.Json.dll
+E:\SananEnterprise\SaNoN\WebApplication1\WebApplication1\bin\System.Web.Helpers.dll
+E:\SananEnterprise\SaNoN\WebApplication1\WebApplication1\bin\System.Web.Mvc.dll
+E:\SananEnterprise\SaNoN\WebApplication1\WebApplication1\bin\System.Web.Optimization.dll
+E:\SananEnterprise\SaNoN\WebApplication1\WebApplication1\bin\System.Web.Razor.dll
+E:\SananEnterprise\SaNoN\WebApplication1\WebApplication1\bin\System.Web.WebPages.Deployment.dll
+E:\SananEnterprise\SaNoN\WebApplication1\WebApplication1\bin\System.Web.WebPages.dll
+E:\SananEnterprise\SaNoN\WebApplication1\WebApplication1\bin\System.Web.WebPages.Razor.dll
+E:\SananEnterprise\SaNoN\WebApplication1\WebApplication1\bin\WebGrease.dll
+E:\SananEnterprise\SaNoN\WebApplication1\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\SananEnterprise\SaNoN\WebApplication1\WebApplication1\bin\System.Web.Helpers.xml
+E:\SananEnterprise\SaNoN\WebApplication1\WebApplication1\bin\System.Web.Mvc.xml
+E:\SananEnterprise\SaNoN\WebApplication1\WebApplication1\bin\System.Web.Optimization.xml
+E:\SananEnterprise\SaNoN\WebApplication1\WebApplication1\bin\System.Web.Razor.xml
+E:\SananEnterprise\SaNoN\WebApplication1\WebApplication1\bin\System.Web.WebPages.xml
+E:\SananEnterprise\SaNoN\WebApplication1\WebApplication1\bin\System.Web.WebPages.Deployment.xml
+E:\SananEnterprise\SaNoN\WebApplication1\WebApplication1\bin\System.Web.WebPages.Razor.xml
+E:\SananEnterprise\SaNoN\WebApplication1\WebApplication1\bin\Antlr3.Runtime.pdb
+E:\SananEnterprise\SaNoN\WebApplication1\WebApplication1\bin\Newtonsoft.Json.xml
+E:\SananEnterprise\SaNoN\WebApplication1\WebApplication1\bin\Microsoft.ApplicationInsights.xml
+E:\SananEnterprise\SaNoN\WebApplication1\WebApplication1\bin\Microsoft.AI.DependencyCollector.xml
+E:\SananEnterprise\SaNoN\WebApplication1\WebApplication1\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\SananEnterprise\SaNoN\WebApplication1\WebApplication1\bin\Microsoft.AI.WindowsServer.xml
+E:\SananEnterprise\SaNoN\WebApplication1\WebApplication1\bin\Microsoft.AI.Web.xml
+E:\SananEnterprise\SaNoN\WebApplication1\WebApplication1\obj\Debug\WebApplication1.csprojResolveAssemblyReference.cache
+E:\SananEnterprise\SaNoN\WebApplication1\WebApplication1\obj\Debug\WebApplication1.csproj.CoreCompileInputs.cache
+E:\SananEnterprise\SaNoN\WebApplication1\WebApplication1\obj\Debug\WebApplication1.dll
+E:\SananEnterprise\SaNoN\WebApplication1\WebApplication1\obj\Debug\WebApplication1.pdb
