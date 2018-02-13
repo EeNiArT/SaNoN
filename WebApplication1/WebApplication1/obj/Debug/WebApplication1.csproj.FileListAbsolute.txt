@@ -82,3 +82,12 @@ E:\SananEnterprise\SaNoN\WebApplication1\WebApplication1\obj\Debug\WebApplicatio
 E:\SananEnterprise\SaNoN\WebApplication1\WebApplication1\obj\Debug\WebApplication1.csproj.CoreCompileInputs.cache
 E:\SananEnterprise\SaNoN\WebApplication1\WebApplication1\obj\Debug\WebApplication1.dll
 E:\SananEnterprise\SaNoN\WebApplication1\WebApplication1\obj\Debug\WebApplication1.pdb
+E:\SananEnterprise\SaNoN\WebApplication1\WebApplication1\bin\EntityFramework.dll
+E:\SananEnterprise\SaNoN\WebApplication1\WebApplication1\bin\EntityFramework.SqlServer.dll
+E:\SananEnterprise\SaNoN\WebApplication1\WebApplication1\bin\System.Data.SQLite.dll
+E:\SananEnterprise\SaNoN\WebApplication1\WebApplication1\bin\System.Data.SQLite.EF6.dll
+E:\SananEnterprise\SaNoN\WebApplication1\WebApplication1\bin\System.Data.SQLite.Linq.dll
+E:\SananEnterprise\SaNoN\WebApplication1\WebApplication1\bin\EntityFramework.xml
+E:\SananEnterprise\SaNoN\WebApplication1\WebApplication1\bin\EntityFramework.SqlServer.xml
+E:\SananEnterprise\SaNoN\WebApplication1\WebApplication1\bin\System.Data.SQLite.xml
+E:\SananEnterprise\SaNoN\WebApplication1\WebApplication1\bin\System.Data.SQLite.dll.config
