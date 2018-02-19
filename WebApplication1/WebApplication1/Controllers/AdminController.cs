@@ -18,7 +18,11 @@ namespace WebApplication1.Controllers
             return View();
         }
 
-        public ActionResult fghf2()
+        public ActionResult Login()
+        {
+            return View();
+        }
+        public ActionResult Register()
         {
             return View();
         }
