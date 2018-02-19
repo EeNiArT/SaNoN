@@ -159,48 +159,48 @@
     <Compile Include="App_Start\BundleConfig.cs" />
     <Compile Include="App_Start\FilterConfig.cs" />
     <Compile Include="App_Start\RouteConfig.cs" />
+    <Compile Include="AspNetRole.cs">
+      <DependentUpon>SanonModel.tt</DependentUpon>
+    </Compile>
+    <Compile Include="AspNetUser.cs">
+      <DependentUpon>SanonModel.tt</DependentUpon>
+    </Compile>
+    <Compile Include="AspNetUserClaim.cs">
+      <DependentUpon>SanonModel.tt</DependentUpon>
+    </Compile>
+    <Compile Include="AspNetUserLogin.cs">
+      <DependentUpon>SanonModel.tt</DependentUpon>
+    </Compile>
     <Compile Include="Controllers\AdminController.cs" />
     <Compile Include="Controllers\HomeController.cs" />
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
-    <Compile Include="Models\AspNetRole.cs">
-      <DependentUpon>SananDataModel.tt</DependentUpon>
-    </Compile>
-    <Compile Include="Models\AspNetUser.cs">
-      <DependentUpon>SananDataModel.tt</DependentUpon>
-    </Compile>
-    <Compile Include="Models\AspNetUserClaim.cs">
-      <DependentUpon>SananDataModel.tt</DependentUpon>
-    </Compile>
-    <Compile Include="Models\AspNetUserLogin.cs">
-      <DependentUpon>SananDataModel.tt</DependentUpon>
-    </Compile>
-    <Compile Include="Models\SananDataModel.Context.cs">
-      <AutoGen>True</AutoGen>
-      <DesignTime>True</DesignTime>
-      <DependentUpon>SananDataModel.Context.tt</DependentUpon>
-    </Compile>
-    <Compile Include="Models\SananDataModel.cs">
-      <AutoGen>True</AutoGen>
-      <DesignTime>True</DesignTime>
-      <DependentUpon>SananDataModel.tt</DependentUpon>
-    </Compile>
-    <Compile Include="Models\SananDataModel.Designer.cs">
-      <AutoGen>True</AutoGen>
-      <DesignTime>True</DesignTime>
-      <DependentUpon>SananDataModel.edmx</DependentUpon>
-    </Compile>
-    <Compile Include="Models\sp_helpdiagramdefinition_Result.cs">
-      <DependentUpon>SananDataModel.tt</DependentUpon>
-    </Compile>
-    <Compile Include="Models\sp_helpdiagrams_Result.cs">
-      <DependentUpon>SananDataModel.tt</DependentUpon>
-    </Compile>
-    <Compile Include="Models\sysdiagram.cs">
-      <DependentUpon>SananDataModel.tt</DependentUpon>
-    </Compile>
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="SanonModel.Context.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>SanonModel.Context.tt</DependentUpon>
+    </Compile>
+    <Compile Include="SanonModel.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>SanonModel.tt</DependentUpon>
+    </Compile>
+    <Compile Include="SanonModel.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>SanonModel.edmx</DependentUpon>
+    </Compile>
+    <Compile Include="sp_helpdiagramdefinition_Result.cs">
+      <DependentUpon>SanonModel.tt</DependentUpon>
+    </Compile>
+    <Compile Include="sp_helpdiagrams_Result.cs">
+      <DependentUpon>SanonModel.tt</DependentUpon>
+    </Compile>
+    <Compile Include="sysdiagram.cs">
+      <DependentUpon>SanonModel.tt</DependentUpon>
+    </Compile>
   </ItemGroup>
   <ItemGroup>
     <Content Include="Content\cssAdmin\bootstrap-theme.css" />
@@ -1145,15 +1145,15 @@
     <Content Include="favicon.ico" />
     <Content Include="fonts\glyphicons-halflings-regular.svg" />
     <Content Include="Global.asax" />
-    <Content Include="Models\SananDataModel.Context.tt">
+    <Content Include="SanonModel.Context.tt">
       <Generator>TextTemplatingFileGenerator</Generator>
-      <DependentUpon>SananDataModel.edmx</DependentUpon>
-      <LastGenOutput>SananDataModel.Context.cs</LastGenOutput>
+      <DependentUpon>SanonModel.edmx</DependentUpon>
+      <LastGenOutput>SanonModel.Context.cs</LastGenOutput>
     </Content>
-    <Content Include="Models\SananDataModel.tt">
+    <Content Include="SanonModel.tt">
       <Generator>TextTemplatingFileGenerator</Generator>
-      <DependentUpon>SananDataModel.edmx</DependentUpon>
-      <LastGenOutput>SananDataModel.cs</LastGenOutput>
+      <DependentUpon>SanonModel.edmx</DependentUpon>
+      <LastGenOutput>SanonModel.cs</LastGenOutput>
     </Content>
     <Content Include="Scripts\bootstrap.js" />
     <Content Include="Scripts\bootstrap.min.js" />
@@ -1202,12 +1202,12 @@
     <Content Include="Content\plugins\datatables\extensions\TableTools\Readme.md" />
     <Content Include="Content\plugins\input-mask\phone-codes\phone-be.json" />
     <Content Include="Content\plugins\input-mask\phone-codes\phone-codes.json" />
-    <EntityDeploy Include="Models\SananDataModel.edmx">
+    <EntityDeploy Include="SanonModel.edmx">
       <Generator>EntityModelCodeGenerator</Generator>
-      <LastGenOutput>SananDataModel.Designer.cs</LastGenOutput>
+      <LastGenOutput>SanonModel.Designer.cs</LastGenOutput>
     </EntityDeploy>
-    <Content Include="Models\SananDataModel.edmx.diagram">
-      <DependentUpon>SananDataModel.edmx</DependentUpon>
+    <Content Include="SanonModel.edmx.diagram">
+      <DependentUpon>SanonModel.edmx</DependentUpon>
     </Content>
     <None Include="Scripts\jquery-1.10.2.intellisense.js" />
     <Content Include="Scripts\jquery-1.10.2.js" />
@@ -1248,6 +1248,7 @@
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
+    <Folder Include="Models\" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="fonts\glyphicons-halflings-regular.woff" />
